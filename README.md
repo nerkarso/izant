@@ -1,4 +1,4 @@
-<h1 align="center">Oh, hello there <img src="https://github.com/nerkarso/nerkarso/raw/master/hi.gif" height="32" /></h1>
+<h1 align="center">Oh, hello there <img src="https://raw.githubusercontent.com/nerkarso/nerkarso/master/hi.gif" height="32" /></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=41b883&size=30&center=true&vCenter=true&multiline=true&width=500&height=140&lines=My+name+is+Ner+Karso%2C;also+known+as+Ngineer+and;I+am+a+Software+Engineer." alt="Readme Typing SVG">
