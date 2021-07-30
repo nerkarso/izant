@@ -4,8 +4,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=41b883&size=30&center=true&vCenter=true&multiline=true&width=500&height=140&lines=My+name+is+Ner+Karso%2C;also+known+as+Ngineer+and;I+am+a+Software+Engineer." alt="Readme Typing SVG" />
 </p>
 
+<h3 align="center">🌸 My Purpose 🌸</h3>
+
 <p align="center">
-  <i>My purpose in life is to inspire and mentor future generations<br/>and my passion is inventing tools that will revolutionize the education system.</i>
+  <i>My purpose in life is to inspire and educate future generations.</i>
+</p>
+
+<h3 align="center">🌟 My Mission 🌟</h3>
+
+<p align="center">
+  <i>My mission is to invent tools that will revolutionize the education system.</i>
 </p>
 
 <h2 align="center">Tech Stack</h2>
