@@ -7,7 +7,7 @@
 <h3 align="center">🌸 My Purpose 🌸</h3>
 
 <p align="center">
-  <i>My purpose in life is to inspire and educate future generations.</i>
+  <i>My life purpose is to inspire and educate future generations.</i>
 </p>
 
 <h3 align="center">🌟 My Mission 🌟</h3>
