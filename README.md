@@ -6,22 +6,22 @@
 
 ---
 
-<h3 align="center">🔥 My Passion 🔥</h3>
+<h3 align="center">🔥 Passion 🔥</h3>
 
 <p align="center">
   <i>My passion is to solve problems using technology.</i>
 </p>
 
-<h3 align="center">🌟 My Life Purpose 🌟</h3>
-
-<p align="center">
-  <i>My life purpose is to inspire and educate future generations.</i>
-</p>
-
-<h3 align="center">🎯 My Mission 🎯</h3>
+<h3 align="center">🎯 Mission 🎯</h3>
 
 <p align="center">
   <i>My mission is to invent tools that will revolutionize the education system.</i>
+</p>
+
+<h3 align="center">🌟 Life Purpose 🌟</h3>
+
+<p align="center">
+  <i>My purpose in life is to inspire and guide future generations.</i>
 </p>
 
 <h2 align="center">Tech Stack</h2>
